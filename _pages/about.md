@@ -9,9 +9,9 @@ profile:
   image: myself.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  
+    <p>Email: wanghl66@njust.edu.cn</p>
+    <p>Nanjing, Jiangsu, China</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -31,8 +31,8 @@ latest_posts:
 
 I am an academic scholar and researcher specializing in additive manufacturing and 3D printing. My research interests include:
 
-* FDM printer parameter optimization
-* Statistical methodologies for functional responses
-* Surrogate modeling & Bayesian optimization
+- FDM printer parameter optimization
+- Statistical methodologies for functional responses
+- Surrogate modeling & Bayesian optimization
 
 </div>
