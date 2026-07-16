@@ -5,8 +5,8 @@ permalink: /
 subtitle: <a href= "https://www.njust.edu.cn/">Nanjing University of Science and Technology</a>. Address. Contacts. Motto. Etc.
 
 profile:
-  align: right
-  image: prof_pic.jpg
+  align: left
+  image: myself.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
