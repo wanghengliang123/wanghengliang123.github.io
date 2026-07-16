@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an academic scholar and researcher specializing in additive manufacturing and 3D printing. My research interests include:
-- FDM printer parameter optimization
-- Statistical methodologies for functional responses
-- Surrogate modeling & Bayesian optimization
+&emsp;&emsp;I am an academic scholar and researcher specializing in additive manufacturing and 3D printing. My research interests include:
+&emsp;&emsp;- FDM printer parameter optimization
+&emsp;&emsp;- Statistical methodologies for functional responses
+&emsp;&emsp;- Surrogate modeling & Bayesian optimization
