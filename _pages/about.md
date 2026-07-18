@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href= "https://www.njust.edu.cn/">Nanjing University of Science and Technology</a>. Address. Contacts. Motto. Etc.
-
+subtitle: <a href= "https://www.njust.edu.cn/">Nanjing University of Science and Technology</a>
 profile:
   align: left
   image: myself.jpg
@@ -20,7 +19,7 @@ announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
-
+    
 latest_posts:
   enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
@@ -29,10 +28,6 @@ latest_posts:
 
 <div style="margin-left: 20px;">
 
-I am an academic scholar and researcher specializing in additive manufacturing and 3D printing. My research interests include:
-
-- FDM printer parameter optimization
-- Statistical methodologies for functional responses
-- Surrogate modeling & Bayesian optimization
+My research focuses on statistical machine learning and Bayesian optimization for expensive engineering systems. I develop Gaussian process, functional data analysis, and multi-fidelity methods, with applications in additive manufacturing and intelligent manufacturing.
 
 </div>
